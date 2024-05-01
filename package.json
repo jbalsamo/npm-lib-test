@@ -1,0 +1,22 @@
+{
+  "name": "@jbalsamo/jb-lib-test",
+  "version": "1.1.0",
+  "description": "Test creating an npm library",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/script.js"
+  },
+  "keywords": [
+    "NPM Tutorial"
+  ],
+  "author": "Joseph Balsamo",
+  "license": "ISC",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "jb-lib-test": "^1.0.0",
+    "npm-lib-test": "^1.0.0"
+  },
+  "devDependencies": {}
+}
